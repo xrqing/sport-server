@@ -9,15 +9,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.client</groupId>
-    <artifactId>sport-client-api</artifactId>
+    <groupId>com.pojo</groupId>
+    <artifactId>sport-pojo</artifactId>
 
-    <dependencies>
-        <dependency>
-            <groupId>com.common</groupId>
-            <artifactId>sport-common</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-    </dependencies>
 
 </project>
